@@ -11,12 +11,29 @@
 
 </details>
 
-### Демонстрация работы
+### GIF Демонстрация работы
 <details>
 
-<summary>GIF</summary>
+<summary>Edit item</summary>
 
-![shoplist](https://github.com/TobbyMax/AndroidLab2/assets/54005825/b38a07b2-2641-4665-8981-be6f1d79414b)
+![edit-item](https://github.com/TobbyMax/AndroidLab2/assets/54005825/e660ff4f-fd47-4db0-8c2b-5be1cc1be7ab)
+
+</details>
+
+<details>
+
+<summary>Error handling & Delete items</summary>
+
+![delete-items](https://github.com/TobbyMax/AndroidLab2/assets/54005825/05c439eb-5b94-48c2-99f1-f6d3570d9c55)
+
+
+</details>
+
+<details>
+
+<summary>Empty list & New item</summary>
+
+![new-item](https://github.com/TobbyMax/AndroidLab2/assets/54005825/b3b174ba-1a4a-4c2b-b6b5-ae6a7d597a35)
 
 </details>
 
