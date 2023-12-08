@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopList</string>
+    <string name="add_to_list">Save to Shopping List</string>
+    <string name="enter_item_name">Enter item name</string>
+    <string name="enter_note">Enter note/description</string>
+    <string name="item_name">Item name</string>
+    <string name="note">Note/description</string>
+    <string name="shopping_item">Shopping item</string>
+    <string name="new_shopping_item">New shopping item</string>
+    <string name="empty_list">Shopping List is empty</string>
+    <string name="remove_all">Clear list</string>
+</resources>
